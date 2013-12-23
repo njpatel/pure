@@ -1,0 +1,15 @@
+{
+  "name": "pure",
+  "repo": "njpatel/pure",
+  "description": "A set of small, responsive CSS modules that you can use in every web project. http://purecss.io/",
+  "version": "3.0.0",
+  "keywords": [
+    "pure",
+    "css",
+    "yui"
+  ],
+  "license": "BSD",
+  "styles": [
+    "pure.css"
+  ]
+}
